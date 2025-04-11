@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Japan Tips - Overview.md","permalink":"/japan-tips-overview/","noteIcon":null,"created":"2025-04-11T21:01:18.610+02:00","updated":"2025-04-11T21:02:27.388+02:00"}
+{"dg-publish":true,"dg-path":"Japan Tips - Overview.md","permalink":"/japan-tips-overview/","noteIcon":null,"created":"2025-04-11T21:01:18.610+02:00","updated":"2025-04-11T21:04:03.560+02:00"}
 ---
 
 This is where I will put all my Japan tips.
@@ -8,4 +8,4 @@ This is where I will put all my Japan tips.
 ```
 > [!NOTE] Note title
 > This is a placeholder
-```#
+```
