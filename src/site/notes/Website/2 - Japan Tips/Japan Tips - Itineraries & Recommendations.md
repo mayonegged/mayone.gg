@@ -1,0 +1,164 @@
+---
+{"dg-publish":true,"dg-path":"2 - Japan Tips/Japan Tips - Itineraries & Recommendations.md","permalink":"/2-japan-tips/japan-tips-itineraries-and-recommendations/","noteIcon":"2","created":"2025-04-12T13:31:49.350+02:00","updated":"2025-04-12T14:55:46.151+02:00"}
+---
+
+## Recommened Hotels
+- Tokyo
+	- Park Hyatt Tokyo: Lost in Translation Hotel. Very good service, but the rooms are now quite old, and the location is very impractical (15 minute walk to next Yamanote station). They have reduced their prices a little vs the other high end hotels, so it may be a good deal still.
+	- Mandarin Oriental Tokyo. Perfect hotel in a perfect location (Metro station directly under the hotel). Extremely new / fresh rooms.
+	- Peninsula. Good hotel but fussy/snobby service, at similar prices to the Mandarin. No reason to go.
+	- Aman: according to friends similar to Mandarin but never tried.
+	- Muji Hotel Ginza: according to friends very good low-key, economical option in a perfect location. Its integrated in the Muji Flagship store.
+- Kyoto
+	- Sowaka: lovely "high end" ryokan with extremely sweet service. Great breakfast, dinner forgettable. Fantastic rooms - prefer the main building to the annex building when booking.
+
+## Tokyo Planning
+### 1-3 Days: Shibuya, Harajuku, Shinjuku, Yoyogi Park, Omotesando, Aoyama
+- Shibuya Crossing / Hachiko! %3C3
+	- Shibuya Sky is a (paid) viewing platform to watch the crossing. Alternatively, the Starbucks has a great view (but many people know  about this), so the next-best tip is the Shibuya Mark City Mall, which has a Skyway just above the crossing with huge windows. The L'Occitane Store also has a Cafe with a good view of the crossing.
+- Yoyogi Park: Come Satuday for fun crowds / Rockabillys dancing
+- Meiji Shrine: 8AM + 2PM daily ceremony. 1. and 15th of each month bigger ceremony (Tsukinamisai). Plan extra time to visit the Meiji Shrine Garden.
+- **Shinjuku Gyoen National Garden** is beautiful as a perfectly cultivated / maintained massive japanese Garden. Amazing during Sakura.
+- **Nezu Museum** is beautiful.
+- Shinjuku is most fun/atmospheric at nighttime.
+	- Kabukicho is the red light district. IGNORE the street hustlers, they are quite dangerous if you enter their bars/clubs. Only go to places with online reviews. But do absolutely go.
+	- Actual red light stuff is not available to foreigners, but expect it to be fairly visible. Places display price lists prominently etc. Don't go with kids, it may trigger some conversations.
+	- Outside of Kabukicho, **Golden Gai** and **Memory Lane** (sometimes called "Piss Alley") are extremely lively nightlife spots in Shinjuku with hundreds of small bars, tiny pubs and restaurants. Its what people immediately imagine when thinking about Tokyo at night. Golden Gai is more focused on pure bars, Memory Lane has a mix with restaurants.
+- Shopping
+		- **Shibuya Parco** and **Shibuya Seibu** (Designer Fashion brands, Yohji Yamamoto popups, Junya Watanabe, North Face Purple Label). Shibuya Parco also has a floor dedicated to character stores = Nintendo Store, Pokemon, Capcom store etc.
+		- **Gyre** Shopping Mall (**visvim** - beautiful store. Margiela etc)
+		- Smaller Shops in the side streets - just walk around Harajuku. For high-end streetwear, rare sneakers etc. try **Worm Tokyo**, **Atmos**. I despise **Kith** but they have a flagship there too. **Ambush Workshop** is very high end streetwear fashion + jewelry, but the collection is always super focused. There is also the **Onitsuka Tiger** Flagship, incl. their Made in Japan collection. Also check out **Conomi**, who sell authentic japanese uniforms as fashion items
+		- **Isetan** is a massive, extremely well selected department store in Shinjuku, focused on high-end luxury brands, incl. lots of japan-exclusive items from western brands. Basically  Bergdorf Goodman x10, and considered to be the global reference department store. Entire secondary building dedicated to Menswear.
+		- **Mandarake** in Shibuya is an amazing gigantic underground manga store.
+		- Aoyama / Omotesando has all flagship stores of all major brands. Tier 1 Prada Store (massive building with lots of exclusives), Comme des Garcons Flagship, LV Flagship. Most major brands completely design an entire building.
+		- Shinjuku (West exit, "Camera Town") is the best place in the world for camera equipment incl. second hand gear / lenses. Absolutely incredible (and very good deals w weak yen!)
+		- Don Quijote at the Kabukicho Gate for one of the most surreal shopping experiences. Very good spot to find small weird souvenirs for friends.
+		- For vintage fashion, the best options are **Komehyo**, a huge chain of luxury second hand stores (each location has a focus on different brands, one has a floor dedicated to Hermes scarves etc. biggest locations are in Shinjuku), and, for high end / runway stuff: **Vintage Dress** in Daikanyama as well as **THE BRISK**. Other good options are **Rag Tag**, **Amore**, **QOO** and **Brand Connect**.
+- Some Lunch options
+	- Ichiran, most famous katsu (pork) ramen in Shibuya. Long queue at the honten (main location), but they have a second branch just a few minutes away in a shopping mall with no queue.
+	- Tonkatsu Maisen - tonkatsu (pork schnitzel) in the Shibuya Hikarie Shopping Mail. Its a high end chain (basically the Plachutta for Tonkatsu). Have the blackfoot pig fatty Tonkatsu with sauce.
+	- **Yasubee**. A very good tsukemen (dipping noodle) place. Extremely addictive. All portion sizes cost the same, do NOT order a big portion and not finish it, it would be very gauche.
+	- Tsunahachi - amazing Tempura. Have the tempura egg yolk. Don't do the set menu, but order a lot a la carte. Their honten (main location) is the most atmospheric but slightly racist, don't let that deter you (or go to a secondary location, there are 3 around Shinjuku)
+### 1-2 Days: Maranouchi, Nihonbashi, Ginza, Tokyo Station
+- Maranouchi + Nihonbashi are the "old business" districts in Japan. Red brick skyscrapers and unlimited money.
+	- Check out **Maranouchi Brick Square** for the crystallized "euro-romantic" vibe.
+- Imperial Palace Park
+	- Check online for tour timings. The tour is a bit dry, but its the only way to even visit the palace grounds. There are "first come first served" tours every day. To be clear: the tour is only of the Palace grounds, you never get to enter any buildings.
+	- For pre-registration, the date is day 1 of the month preceeding the visit. It does not sell out instantly, but generally within 1-2 days. So if visiting anytime in October, you must register on September 1st, here: https://sankan.kunaicho.go.jp/register/month/1001?locale=en
+	- There is a small part of the park that is publically accessibly.
+- Seiko Museum is neat if you have an affinity with the brand / watchmaking. (you may end up wanting to buy a Grand Seiko)
+- Seikado Bunko Art Museum: Amazing japanica artifact collection by the Iwasaki family (Mitsubishi-affiliated), directly next to the Imperial Palace
+- Shopping
+	- Ginza is a massive premier shopping district. **Ginza Six** is a nice shopping mall with e.g. super nice luxury japanese denim brands. **Ginza Wako** is famous for its clock tower and has a soft focus on watches and accessoires (glasses, ties, bags...)
+	- **Dover Street Market** (the biggest one)
+	- **Muji** Flagship Store, of course.
+	- **Kitte** in Maranouchi is another shopping mall very focused on japanese accessoires
+	- **Ippodo Tea** has the most amazing green tea, both for tasting locally and to buy. Strongly recommend the Matcha Tasting, its very quick and interesting! Staff is super helpful.
+	- **Itoya** is the most famous high end stationery / papeterie store in world. Absolutely massive and beautiful. Incredible products, the biggest selection of pens. Also have inks, calligraphy equipment etc.
+	- Kyukyodo: Also Stationery / Papeterie. Smaller than Itoya but more focused on calligraphy, inks and japanese paper. Go here if you could not find something specialized at Itoya (e.g. specific Kobe inks). Also sell japanese incense.
+	- Pokémon Center. IYKYK
+	- **Matsuya** and **Mitsukoshi** are department stores with the best food selection and are absolutely mindblowing (and VERY grammable). Most beautiful fruit you will ever see. Particular tip: Matsuya have the best Soy Sauce selection anywhere.  Mitsukoshi have the most beautifully presented food. Staff speaks english, extremely well trained and helpful.
+- Some Lunch options
+	- **Seryna** is a **very** expensive, very oldschool Sukiyaki place, but their lunch options are humanely priced and very good. Expect VERY traditional service (traditionially dressed waitresses will help you eat). The Ginza branch is in the new Tiffany's building.
+	- **Nihonyakiniku Hasegawa** very good Yakinku (=Steak / Grill Restaurant)
+	- **Gyopao Gyoza**. Taiwanese / Chinese style Gyoza, incld. Soup Gyoza. Fairly "Din Tai Fung"-like (but more limited options ofc)
+	- **Hachigo**. Famous Ramen restaurant, chicken-scallop broth base. Gotten very hyped with a Michelin star. Can pay 500 Yen for a reservation to skip the queue (generally 1,5h)
+	- **Godaime Hanayama**. Amazing Udon
+	- The Italian Restaurant at the Mandarin Oriental is SHOCKINGLY good.
+	- **Kyubey** is a famous Sushi store, and can accomodate walk-ins. Amazing, high end sushi.
+	- **Kagari** is another very good Ramen place with a pure Chicken stock. Queues can also go a little crazy.
+### 1 Day: Nakameguro (+ Roppongi)
+- Nakameguro is the hipster / SoHo type district, with amazing Sakura all along the Meguro river. Lots of small cafes etc.
+- Perfect for a chill walk. Come in the morning (10-ish) on a day with good weather.
+- Nakameguro Koukashita is a set of small stores built under the train tracks, including a great bookshop (Tsutaya)
+- Meguro Sky Garden has lots of Sakura Trees and is absolutely lovely in March-April.
+- Recommend **Artless** Cafe & **Blue Bottle** Cafe 
+- **Tokyo Metropolitan Teien Art Museum** is fairly close by and often has very good exhibitions.
+- I personally hate Roppongi so I would not spend too much time there, but the **Mori Museum** is worth visiting.
+- Shopping
+	- **visvim general store**. The absolutely nicest fashion store in Tokyo, with incredible architecture. If you shop at one store, make it this one. (**visvim WMV** is the women's line, and they have a separete, dedicated store close by.)
+	- **J'Antiques** Very cool Americana store.
+	- Just stroll along the river next to Nakameguro station, dozens of extremely nice indie stores.
+### 1-2 Days: Asakusa + Akihabara
+- Asakusa houses **Senso-Ji**, the largest temple in Tokyo, including the Thunder Gate. Must visit.
+- The entire temple area is amazing, including **Nakamise Street**. It can get extremely busy on Sundays, which is fun for the vibes but annoying to get into shops and restaurants.
+- Akihabara has **Electric Town**, the geek district. Lots of video game arcades, shops with gaming / anime articles.
+- Maid Cafés are tourist traps... only fun if you appreciate some cringe.
+- **Kanda Shrine** is beautiful and includes blessings for electronics (very neat souvenir)
+- **Taiko Lab** has 1 hour crash courses for Taiko drums. Pretty fun! Must pre-register online.
+- **Akiba Furukou Owl Cafe** lets you hold an owl. Among all animal cafes they appear the most animal welfare-conscious, and are extremely strict on respecting the animals. Not making an ethical judgement, I just like having a cute owl on my arm - if you hate it, don't go. Need to pre-register 2-3 weeks in advance.
+- **Kappabashi Street** is dedicated to kitchen equipment, replica foods, cookware and high-end knives. Its where restaurants in Tokyo buy all their equipment, so except a very authentic "b2b" vibe.
+- **Tokyo Sky Tree** is also close to Asakusa. ONLY go on days with perfect weather / visibility, otherwise it is pointless. There are other places with great views, but nothing with a comparable height / potential distance to Sky Tree.
+	- Buy a ticket 1 day in advance online. Its very easy (otherwise every hotel concierge can do it). When going on a weekend get the combo ticket to go to the higher platform (its more expensive, so fewer people go to the upper platform). During the week the lower platform is fine / identical.
+	- Its also beautiful at night. (if visibility is very good)
+- Below Tokyo Sky Tree is one of the best shopping malls for japanese souvenirs, **Solamachi** - massive and extremely well-selected / high quality japanese items.
+- Shopping
+	- In Akihabara, **Super Potato** is the easiest destination for retro games (80s - 90s era, NES, Super Nintendo, Genesis, Gameboy). Fully equipped. Other stores are cheaper but will not have everything.
+	- **Radio Kaikan** and **Kotobukiya** are best for video game merchandise. Other stores focus more fully on anime merchandise.
+	- **Mandarake Complex** has some extremely rare figurines and other anime-related articles.
+	- The **animate** stores have all Anime merchandising. Check online which branch focuses on which franchises.
+	- **G-Front** is THE best shop for MVS / Arcade Equipment. Unparalleled. (Do not be surprised, its on an upper floor in an office building.) - they do not have a showroom, you need to know what you want (assume they have every board you could wish for)
+	- **Yodobashi Camera** is a massive electronics store. (unforunately 85% useless given the 110V voltage). **Yamada Denki** (very iconic for their store facade) focuses more on PC components, incl exotic PCIe cards and tower components.
+	- The **Rare Vending Machine Corner** is the place where you can buy used women's panties (and insect larvae and other similar things). Very grammable.
+	- Asakusa / Sensoji there are tons of cool souvenir shops all along **Nakamise Street**
+- Lunch Options
+	- There is a **Sushi Zanmai** branch fairly close to Sensoji. Sushi Zanmai is the best "cheap" Sushi chain in Tokyo, and absolutely amazing to indulge in Chutoro / Otoro.
+	- Have Moon Cakes, Dango and other Japanese Sweets on Nakamise Street.
+	- Have Takoyaki or other Japanese Street Food on Nakamise Street.
+	- **Unagi Komagata** is an good, not overly expensive unagi (eel) restaurant. Perfect to have a Unajuu for lunch. Note that eel is sometimes considered oldschool so don't be surprised if the crows skews older.
+	- **Unagi Hitsumabushi Minokin** is another fantastic unagi restaurant, more focused on different variants to prepare eel. Also not expensive compared to many unagi places.
+	- **Sugita** is a good tonkatsu place.
+	- **Okonomiyaki Tsurujiro** is a good slightly fancy-fied Okonomiyaki Restaurant. Very good as a first time okonomiyaki experience as they explain the concept.
+	- **Kappo Tonbo** is an interesting experience as its EXTREMELY oldschool/traditional. ("Kappo" are extremely formal traditional restaurants) Food okay.
+	- **Enshuuya** is focused on rare / exotic seafood. Service a little weird, but the food is absolutely outstanding. Best monkfish liver.
+	- **Bankoden** is a fantastic chinese restaurant with good Beijing Duck and dumplings
+	- **Nomikuidokoro Anzu** is a very good and lively yakiniku / shabu shabu place famous for the beef tongue. Can get very fun in the evening. Has an "all you can drink" plan. (Have not been there in a long time.)
+### Misc / Other Places to Visit around Tokyo
+- **Nihon Minka-en Open Air Folk House Museum** is approx. 20 minutes outside of Tokyo and amazing to see Edo-era architecture. 20+ perfectly preserved Edo era buildings.
+- **teamLab Planets** in Odaiba is kitchy, but fun. Odaiba can be accessed with the Monorail, and there is a Panorama ferry between Odaiba and Asakusa.
+- **Gotokuji Temple** is the cat temple, well worth a visit. Its the origin of the lucky cat! Its in Setagaya, approx 25 minutes outside Tokyo.
+- **Meguro Parasitological Museum** has something of a cult status. Its creepy but very informative, and was created by a single ultra-obsessed doctor. Most famous exhibit is a 9 Meter tapeworm someone got after eating trout sushi. VERY good gift shop.
+### Worthwhile 1-3 day mini-trips from Tokyo
+- Nara: fun for a short bit / if you really love deer. Not a must do.
+- Naoshima / Teshima: worth visiting when staying in Japan for longer. Certainly a nice time, but a bit on the neopop / kitschy side of things, and the travel logistics take up a LOT of time. I ended up feeling like I wasted 1 net day to see an exhibit I would have skipped at home.
+- Yokohama: very fun / Tokyo's Chinatown + a very fun "europeanized" city vibe in parts. Check out the brick warehouse.
+- Kamakura: beautiful in good weather and 1h away from Tokyo. Amazing during Sakura.
+- Hakone: long queue to take a selfie at the iconic torii gate, but very nice environs. There are apparently very good economical onsen in this area, never tried them.
+### Dinner Restaurant recommendations
+Tokyo
+- Seryna (€€€€)
+- Tsunahachi
+- BLACK HOLE Yakinku
+- **Ryu No Ko **(Sichuan Chinese)
+- **Kabe no Ana** (Karakospaghetti / Itameshi style food)
+- Soba House Konjiki (no reservations possible, cash only)
+- Sushi Zanmai (24h option, order mountains of Chutoro/Otoro)
+- Yasubei of Ebisu
+- Tempura Yaguchi (€€€€, they serve Fugu occasionally)
+- Ginza Katsukami
+- New York Grill (free reservation via their website -> take a late table, only sure technique to get into the New York Bar afterwards.) (€€€€)
+- Soba Ozawa Asakusa
+- Birdland Ginza (ONLY the Ginza/Honten location, others are bad!)
+- Hei Fung Terrace (€€€€)
+- Kyubey (€€€€)
+- Tempura Kondo (€€€€) - reserve at least 6 months in advance via Concierge
+- Sazenka (€€€€) - tables always reserve out immediately. Only hotel concierges can make reservations.
+## Kyoto Planning
+### Attractions
+- Kyoto has hundreds of shrines, and I recommend not overdoing it. Research online which ones interest you, but don't feel obligated to visit 10 different shrines and temples.
+- **Kiyomizu-Dera** is the most beautiful one, but crowds can be crazy. Go at 6AM and enjoy the most amazing sunrise and view in a serene atmosphere. It combines well with a visit to the beautiful **Higashiyama** district.
+- **Fushimi Inari Shrine** (the 10.000 torii gate shrine) is nice but consider it is a ~3 hour hike in total. Most tourists give up halfway. The lower section is very busy, but it gets more serene further up.
+- Kyoto Imperial Palace is not really worth visiting. Even with a tour, the palace is not accessible at all. The grounds are accessible, but are not a must-see.
+	- Instead, focus the visit on the **Teahouse (Shusui-tei)** - its absolutely beautiful. 
+- Nishiki Market is a bustling market that turns into a night market / food area later in the day. **Shinkyogoku** is a Shopping street with many traditional shops and a nice vibe.
+- **Gion** is the "Geisha district" and extremely lovely and walkable.
+- **Sagano Bamboo Forest** is EXTREMELY busy with tourists during the day, so come early morning.
+- **Endo Yasaga Tempura**. Get private room at the Honten location, best Tempura I have had in Japan.
+### Shopping
+- **Zohiko** is a famous Lacquerware shop. Absolutely gorgeous.
+- **Ichizawa Shinzaburo Hanpu** is a famous Canvas Bag Shop, only sold in Kyoto.
+- **Seikado** is the most famous tinware shop in Japan - to me the most beautiful tableware.
+- **Kyukyodo**'s main location is in Kyoto - stationery and incense + calligraphy equipment. They are the official calligraphy supplier of the Imperial Household.
+- **Miura Shomei** is a famous lamp maker in Higashiyama. They do ship internationally.
+- **Kohchosai Kosuga** has beautiful straw / bamboo woven products. A little bit of a hassle to transport internationally but drop dead beautiful and perfect.
+- **Aritsugu** is the oldest knife shop in Japan. They can engrave knives - perfect as a gift.)
