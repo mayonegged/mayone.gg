@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Verisimilitude as a metric.md","permalink":"/verisimilitude-as-a-metric/","tags":["ai"],"noteIcon":"1","created":"2025-04-12T13:36:54.927+02:00","updated":"2025-04-12T14:36:36.341+02:00"}
+{"dg-publish":true,"dg-path":"Verisimilitude as a metric.md","permalink":"/verisimilitude-as-a-metric/","tags":["ai"],"noteIcon":"1","created":"2025-04-12T13:36:54.927+02:00","updated":"2025-04-12T14:40:20.940+02:00"}
 ---
 
 ## Verisimilitude, a key concept
@@ -29,6 +29,7 @@ In this instance, providing **epistemic modality** ("potentially friendly") prev
 | “Targeted advertising can increase conversion rates by up to 50% compared to non-targeted ads.” | High        | High          | Fundamentally correct, but not totally true. Instances do exist where targeted advertising increased conversion rates by 51%. A human expert reader would still believe this statement to be “true” |
 | “Display advertising has no measurable impact on brand awareness.”                              | Low         | High          | Feels interesting and controversial; many display campaigns do not drive engagement, suggesting a kernel of truth. Someone could believe this and run with it.                                      |
 | “Everyone in Germany saw our ad all day.”                                                       | Low         | Low           | Universally perceived as plain impossible; does not present an engaging picture. Nobody would believe this.                                                                                         |
+
 Thus we can come to a framework where every statement exists on 2 axes:
 - Its **Truth Value** refers to how much a statement corresponds to factual reality.
 - Its **Content Value** refers to how qualitative the statement appears. More specifically, it is itself a mix of the following factors (which I have forced into the mnemonic T.R.U.T.H.)
