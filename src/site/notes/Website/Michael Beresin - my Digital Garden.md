@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Michael Beresin - my Digital Garden.md","permalink":"/michael-beresin-my-digital-garden/","metatags":"description: \"The digital garden of Michael Beresin. A place for me to store a few stray thoughts.\"","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2025-04-11T15:00:03.354+02:00","updated":"2025-04-12T16:25:57.093+02:00"}
+{"dg-publish":true,"dg-path":"Michael Beresin - my Digital Garden.md","permalink":"/michael-beresin-my-digital-garden/","metatags":"description: \"The digital garden of Michael Beresin. A place for me to store a few stray thoughts.\"","pinned":true,"tags":["gardenEntry"],"noteIcon":"","created":"2025-04-11T15:00:03.354+02:00","updated":"2025-04-12T16:36:24.733+02:00"}
 ---
 
 Hi!
@@ -24,6 +24,7 @@ I get to think about the way people interact with the web and with AI. Most of m
 - [Noise: A Flaw in Human Judgement](https://www.goodreads.com/book/show/55339408-noise?ref=rae_19)
 - [Determined: A Science of Life without Free Will](https://www.goodreads.com/book/show/83817782-determined?ref=rae_16)
 
-## Imprint
+## 📨 Imprint & Contact Info
 Michael Beresin
 1070 Wien
+Contact me via: sengt-websites-7f@icloud.com
