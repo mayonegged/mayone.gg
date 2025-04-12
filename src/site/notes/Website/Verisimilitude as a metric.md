@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Verisimilitude as a metric.md","permalink":"/verisimilitude-as-a-metric/","tags":["ai"],"noteIcon":"1","created":"2025-04-12T13:36:54.927+02:00","updated":"2025-04-12T13:50:13.004+02:00"}
+{"dg-publish":true,"dg-path":"Verisimilitude as a metric.md","permalink":"/verisimilitude-as-a-metric/","tags":["ai"],"noteIcon":"1","created":"2025-04-12T13:36:54.927+02:00","updated":"2025-04-12T14:36:36.341+02:00"}
 ---
 
 ## Verisimilitude, a key concept
@@ -12,6 +12,7 @@
 | Portuguese | verossimilhança          |
 | Chinese    | 逼真性 (bī zhēn xìng)       |
 | Japanese   | 真実味 (しんじつみ, shinjitsumi) |
+
 Verisimilitude refers to a statement being “truth-like”, appearing or feeling that it could be real.
 The odd thing about this concept is that it implies that truth is not binary: **all** statements can be closer or further from the truth.
 This also means that all things exist on a spectrum of “wrongness”. Understanding this concept is crucial for a correct, mature handling of Artifical Intelligence outputs.
